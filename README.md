@@ -41,5 +41,8 @@ This project is a Face Recognition and Authorization System that detects faces u
    - Compare them with the dataset.
    - Display recognized faces and mark unknown faces.
    - Show the total count of faces detected.
+  
+   - Log entry in Excel
 
+![image](https://github.com/user-attachments/assets/eb46c146-ea7f-4fe7-a347-69c7c138d1c9)
 
