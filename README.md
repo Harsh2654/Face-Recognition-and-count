@@ -46,3 +46,8 @@ This project is a Face Recognition and Authorization System that detects faces u
 
 ![image](https://github.com/user-attachments/assets/eb46c146-ea7f-4fe7-a347-69c7c138d1c9)
 
+![WhatsApp Image 2025-07-04 at 11 32 28_7f8f4dba](https://github.com/user-attachments/assets/619578c0-30a7-4235-87e3-17cdf37a67c8)
+
+![WhatsApp Image 2025-07-04 at 11 32 28_803cbcba](https://github.com/user-attachments/assets/598c7ed0-f6cc-4d04-b88d-f89f3f3d3459)
+
+![WhatsApp Image 2025-07-04 at 11 32 27_f229dbff](https://github.com/user-attachments/assets/a81bf73d-24a4-489c-a8c5-ebf0abe886a1)
